@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="949"
+   height="256"
+   viewbox="0 0 949 256"
+   id="svg12"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.74759615"
+     inkscape:cx="474.5"
+     inkscape:cy="128"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:197.24472046px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     x="245.14931"
+     y="174.84555"
+     id="text22"
+     transform="scale(0.86270149,1.1591495)"><tspan
+       sodipodi:role="line"
+       id="tspan20"
+       x="245.14931"
+       y="174.84555"
+       style="stroke-width:1">Sagenna</tspan></text>
+  <g
+     id="g163"
+     transform="matrix(11.702372,0,0,7.2422294,-77.72203,17.474812)"
+     style="stroke-width:0.10862427">
+    <g
+       id="Security02"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security03"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security04"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security05"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security06"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security07"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security08"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security09"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security10"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security11"
+       style="stroke-width:0.10862427">
+      <g
+         id="g111"
+         style="stroke-width:0.10862427">
+        <path
+           id="path109"
+           d="m 23,6 v 20 c 0,2.76 -2.24,5 -5,5 H 14 C 11.24,31 9,28.76 9,26 V 6 C 9,3.24 11.24,1 14,1 h 4 c 2.76,0 5,2.24 5,5 z"
+           inkscape:connector-curvature="0"
+           style="fill:#aa0000;stroke-width:0.10862427" />
+      </g>
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.01629364;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647;paint-order:normal"
+         id="path165"
+         cx="16.128742"
+         cy="18.528933"
+         rx="2.6289775"
+         ry="4.2480392" />
+    </g>
+    <g
+       id="Security12"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security13"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security14"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security15"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security16"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security17"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security18"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security19"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security20"
+       style="stroke-width:0.10862427" />
+    <g
+       id="Security21"
+       style="stroke-width:0.10862427" />
+  </g>
+</svg>
